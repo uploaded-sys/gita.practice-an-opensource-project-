@@ -1,6 +1,6 @@
 # gitagame-an--opensource-project-
 CAUNTON:
-the never asks for otp,gmail,etc 
+the game will never asks for otp,gmail,etc 
 except the name 
 
 hi 
