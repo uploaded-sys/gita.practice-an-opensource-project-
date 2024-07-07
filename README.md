@@ -20,3 +20,6 @@ so first go to bahgbatgita.learn then click
 on the zip folder and download it 
 rest said in ppt(2.7 beta - one)
 **
+notice:
+gitagame 3.0 has been released. 
+The docs are going to be updated soon.
