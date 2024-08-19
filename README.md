@@ -18,7 +18,7 @@ the official docs are available
 | Version | Release Date | Description |
 |---------|--------------|-------------|
 | 2.7.0   | 12-05-2024   | first realease you can learn till preface of gita |
-| 3.0.0   | 27-08-2024   | Added a file which instals the required additional module and now you can learn till introduction|
+| **3.0.0**   | **27-08-2024**   | **Added a file which instals the required additional module and now you can learn till introduction**|
 | 6.2.0   | not decided  |more fun comming up|
 
 
