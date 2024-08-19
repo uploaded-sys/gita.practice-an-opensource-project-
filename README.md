@@ -34,5 +34,7 @@ The docs are going to be updated soon.
 ### OUR GITAGAME COMMUNITY
 Stay updated and join discussions in our daily.dev private squad.
 link https://dly.to/Ap1H7P6VPNf
+
 JOIN AND MAKE IT HUGE
+
 MADE FOR DEVELOPER BY DEVELOPER.
