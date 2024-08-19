@@ -13,6 +13,14 @@ well the game will be updated to the next version soon.
 **
 ##notice:
 the official docs are available 
+# App Versions
+
+| Version | Release Date | Description |
+|---------|--------------|-------------|
+| 2.7.0  |    | Initial release |
+| 1.1.0   | 2023-03-15   | Added new features |
+| 1.2.0   | 2023-06-10   | Bug fixes and performance improvements |
+| 2.0.0   | 2024-08-01   | Major update with new UI |
 
 
 **downloading version 2.7:
