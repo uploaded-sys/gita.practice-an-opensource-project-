@@ -1,7 +1,6 @@
 # gitagame-an--opensource-project-
-##CAUNTON:
-the game will never asks for otp,gmail,etc 
-except the your name.
+## CAUNTON:
+### the game will never asks for otp,gmail,etc except the your name.
 
 **hi.
 today i've created a game based on a religious book named bhagbat gita this respiratory will contain all the files to run it .
