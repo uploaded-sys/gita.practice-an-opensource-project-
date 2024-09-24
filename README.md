@@ -1,4 +1,4 @@
-# gitagame-an--opensource-project-
+# gita.practice-an-opensource-project-
 ## CAUNTON:
 ### the game will never asks for otp,gmail,etc except the your name.
 
@@ -30,7 +30,7 @@ gitagame 3.0 has been released.
 The docs are going to be updated soon.
 
 # Join Our daily.dev Squad
-### OUR GITAGAME COMMUNITY
+### OUR GITA.PRATICE COMMUNITY
 Stay updated and join discussions in our daily.dev private squad.
 link: https://dly.to/Ap1H7P6VPNf
 
