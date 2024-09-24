@@ -39,7 +39,7 @@ JOIN AND MAKE IT HUGE
 MADE FOR DEVELOPER BY DEVELOPER.
 # VISIT OUR MAIN WEBSITE
 ## well this notion site is just for people who are not familiar with GitHub to download apps
-link: https://uploaded-sys.notion.site/GITAGAME-COMMUNITY-106332a7ac2c8018a032c237720cc8b8?pvs=4
+link: https://uploaded-sys.notion.site/GITA-PRACTICE-COMMUNITY-106332a7ac2c8018a032c237720cc8b8?pvs=4
 ### visit this notion page to see videos on how to download gitagame 
 well we haven't posted any videos right now 
 you can still install the original way when you will notice that our repo looks very different please check the notion site we may have posted how to install the game or you can directly install from the site only
