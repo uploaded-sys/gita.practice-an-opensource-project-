@@ -31,7 +31,7 @@ The docs are going to be updated soon.
 
 # Join Our daily.dev Squad
 ### OUR GITA.PRATICE COMMUNITY
-Stay updated and join discussions in our daily.dev private squad.
+Stay updated and join discussions in our daily.dev public squad.
 link: https://dly.to/Ap1H7P6VPNf
 
 JOIN AND MAKE IT HUGE
