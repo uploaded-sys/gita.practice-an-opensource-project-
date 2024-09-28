@@ -1,0 +1,8 @@
+you need these external module need to be downloaded:
+
+tqdm:
+
+pip intall tqdm
+
+to know more on tqdm go here:
+https://tqdm.github.io
